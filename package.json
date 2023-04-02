@@ -1,7 +1,7 @@
 {
   "name": "test-react-ts",
   "version": "0.1.0",
-  "homepage": "https://ansalim01.github.io/BullsITStartLayout03",
+  "homepage": "https://ansalim01.github.io/BullsITStartLayout03/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
