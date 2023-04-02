@@ -1,0 +1,30 @@
+.aside-price {
+
+    // .aside-price__title
+
+    &__title {
+        margin-bottom: 16px;
+
+    }
+
+    // .aside-price__body
+
+    &__body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        input {
+            text-align: center;
+
+            width: 100px;
+            padding: 4px 14px;
+            background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+            border-radius: 1000px;
+        }
+
+        :not(:last-child) {
+            margin-right: 10px;
+        }
+    }
+}
