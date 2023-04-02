@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BullsITStartLayout03/static/css/main.ec682c10.css",
+    "main.js": "/BullsITStartLayout03/static/js/main.52c68448.js",
+    "index.html": "/BullsITStartLayout03/index.html",
+    "main.ec682c10.css.map": "/BullsITStartLayout03/static/css/main.ec682c10.css.map",
+    "main.52c68448.js.map": "/BullsITStartLayout03/static/js/main.52c68448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec682c10.css",
+    "static/js/main.52c68448.js"
+  ]
+}
